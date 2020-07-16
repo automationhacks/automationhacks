@@ -2,9 +2,10 @@
 
 ## 👨🏻‍💻 Who am I 
 
-I have a strong passion for Test engineering and automation and am a polyglot programmer who loves to code in Kotlin, Python, and Java to build scalable test automation frameworks and utilities which solve testing and automation problems.
-
-I believe in understanding and testing at all the layers of the stack and have worked with Web, Mobile, and Backend systems throughout my career across different domains. Currently I work as a **Senior Software Engineer in Test (SET)** at [Gojek](https://www.gojek.io/), one of the biggest providers of _on-demand logistics, ride-hailing, food delivery, and payment services_ in Southeast Asia.
+- I have a strong passion for Test engineering and automation and am a polyglot programmer who loves to code in Kotlin, Python, and Java
+- Love building scalable test automation frameworks and utilities which solve testing and automation problems.
+- I believe in understanding and testing at all the layers of the stack and have worked with Web, Mobile, and Backend systems throughout my career across different domains. 
+- Currently I work as a **Senior Software Engineer in Test (SET)** at [Gojek](https://www.gojek.io/), one of the biggest providers of _on-demand logistics, ride-hailing, food delivery, and payment services_ in Southeast Asia.
 
 ## 🌱 I’m currently learning about ...
 
@@ -13,7 +14,7 @@ I believe in understanding and testing at all the layers of the stack and have w
 
 ## 📝 I write at ... 
 
-- I blogs quite reguarly about my journey and adventures as a tester, automation engineer, and programmer in general in my blog [automationhacks.blog](https://automationhacks.blog/)
+- I blogs quite regularly about my journey and adventures as a tester, automation engineer, and programmer in general in my blog [automationhacks.blog](https://automationhacks.blog/)
 
 ## 👨🏻‍🏫 Some course's that I've created ...
 
