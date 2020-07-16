@@ -14,7 +14,7 @@
 
 ## 📝 I write at ... 
 
-- I blogs quite regularly about my journey and adventures as a tester, automation engineer, and programmer in general in my blog [automationhacks.blog](https://automationhacks.blog/)
+- I blogs quite regularly about my journey and adventures as a tester, automation engineer, and programmer in general at my blog [automationhacks.blog](https://automationhacks.blog/)
 
 ## 👨🏻‍🏫 Some course's that I've created ...
 
