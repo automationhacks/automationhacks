@@ -1,4 +1,4 @@
-# 👋 {[automationhacks.blog](https://automationhacks.blog/)}
+# 👋 {[automationhacks.io](https://automationhacks.io/)}
 
 ## 👨🏻‍💻 🇮🇳 Who am I 
 
@@ -13,28 +13,28 @@
 - Native mobile test frameworks (Espresso, XCUITest)
 - Refactoring techniques
 
-## 📝 [I write at ...](https://automationhacks.blog/)
+## 📝 [I write at ...](https://automationhacks.io/)
 
-- I also blog quite frequently about my journey and adventures as a tester, automation engineer, and programmer in general at [automationhacks.blog](https://automationhacks.blog/) and have spoken at conferences like AppiumConf, Automation Guild to share my knowledge, as well as learn from others
+- I also blog quite frequently about my journey and adventures as a tester, automation engineer, and programmer in general at [automationhacks.io](https://automationhacks.io/) and have spoken at conferences like AppiumConf, Automation Guild to share my knowledge, as well as learn from others
 
 
-## 👨🏻‍🏫 [Some course's that I've created ...](https://automationhacks.blog/recognition-and-published-works/)
+## 👨🏻‍🏫 [Some course's that I've created ...](https://automationhacks.io/recognition-and-published-works/)
 
 - Created course on [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/) for [Applitools Test automation university](https://testautomationu.applitools.com/)
 - (Upcoming) Working on a new course on **Building an API Test framework with Python** for TAU
 
-## 🗣 [Some Talks that I've given so far ...](https://automationhacks.blog/talks-and-conferences/)
+## 🗣 [Some Talks that I've given so far ...](https://automationhacks.io/talks-and-conferences/)
 
 - (2019) [How To Kill Test Flake In Appium by Gaurav Singh at AppiumConf 2019](https://www.youtube.com/watch?v=yv9P0CCY5e8)
 - (2020) [Contract Testing: Beyond Functional API Tests at Automation Guild 2020](https://guildconferences.com/conference/automation-guild-2020/)
 - (Upcoming) [How to build an automation framework with selenium : patterns and practices](https://confengine.com/selenium-conf-2020/proposal/13303/how-to-build-an-automation-framework-with-selenium-patterns-and-practices)
 
-You can find the exhaustive list [here](https://automationhacks.blog/talks-and-conferences/)
+You can find the exhaustive list [here](https://automationhacks.io/talks-and-conferences/)
 
 ## 📫 How to reach me 
 
 - Email at gaurav.singh55@gmail.com
-- [Blog](https://automationhacks.blog/)
+- [Blog](https://automationhacks.io/)
 - [Twitter](https://twitter.com/automationhacks)
 - [LinkedIn](https://www.linkedin.com/in/automationhacks/)
 - [Stack overflow](https://stackoverflow.com/users/5336432/gaurav-singh)
