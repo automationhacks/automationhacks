@@ -27,9 +27,9 @@
 
 - (2019) [How To Kill Test Flake In Appium by Gaurav Singh at AppiumConf 2019](https://www.youtube.com/watch?v=yv9P0CCY5e8)
 - (2020) [Contract Testing: Beyond Functional API Tests at Automation Guild 2020](https://guildconferences.com/conference/automation-guild-2020/)
-- (Upcoming) [How to build an automation framework with selenium : patterns and practices](https://confengine.com/selenium-conf-2020/proposal/13303/how-to-build-an-automation-framework-with-selenium-patterns-and-practices)
+- (2020) [How to build an automation framework with selenium : patterns and practices](https://confengine.com/selenium-conf-2020/proposal/13303/how-to-build-an-automation-framework-with-selenium-patterns-and-practices)
 
-You can find the exhaustive list [here](https://automationhacks.io/talks-and-conferences/)
+You can find the exhaustive list [here](https://automationhacks.io/talks/)
 
 ## 📫 How to reach me 
 
