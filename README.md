@@ -10,7 +10,9 @@
 
 ## 🌱 I’m currently learning about ...
 
-- Native mobile test frameworks (Espresso, XCUITest)
+- Developing API using Flask, connexion
+- Distributed systems testing
+- Exploratory testing techniques
 - Refactoring techniques
 
 ## 📝 [I write at ...](https://automationhacks.io/)
