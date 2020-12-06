@@ -10,7 +10,7 @@
 
 ## 🌱 I’m currently learning about ...
 
-- Developing API using Flask, connexion
+- Developing API using Flask, connexion and SQLAlchemy
 - Distributed systems testing
 - Exploratory testing techniques
 - Refactoring techniques
