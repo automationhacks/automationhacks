@@ -15,12 +15,12 @@
 
 ## 📝 [I write at ...](https://automationhacks.io/)
 
-- I also blog quite frequently about my journey and adventures as a tester, automation engineer, and programmer in general at [automationhacks.io](https://automationhacks.io/) and have spoken at conferences like AppiumConf, Automation Guild to share my knowledge, as well as learn from others
+- I also blog quite frequently about my journey and adventures as a tester, automation engineer, and programmer in general at [automationhacks.io](https://automationhacks.io/) and have spoken at conferences like AppiumConf, Automation Guild, Selenium Conf to share my knowledge, as well as learn from others
 
 
 ## 👨🏻‍🏫 [Some course's that I've created ...](https://automationhacks.io/recognition-and-published-works/)
 
-- Created course on [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/) for [Applitools Test automation university](https://testautomationu.applitools.com/)
+- Created course on [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/) for [Applitools Test automation university](https://testautomationu.applitools.com/) which is an public and open platform for people to learn about test automation.
 - (Upcoming) Working on a new course on **Building an API Test framework with Python** for TAU
 
 ## 🗣 [Some Talks that I've given so far ...](https://automationhacks.io/talks-and-conferences/)
