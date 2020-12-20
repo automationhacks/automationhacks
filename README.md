@@ -41,7 +41,7 @@ You can find the exhaustive list [here](https://automationhacks.io/talks/)
 - [LinkedIn](https://www.linkedin.com/in/automationhacks/)
 - [Stack overflow](https://stackoverflow.com/users/5336432/gaurav-singh)
 
-## Want to support me
+## 🤝 Support on patreon
 
-- [Become a patron at patreon, search for automationhacks](https://www.patreon.com/automationhacks)
+- If you like the content I am putting out for the community and want to encourage me to make more, Consider becoming a member at [patreon/automationhacks](https://www.patreon.com/automationhacks)
 
