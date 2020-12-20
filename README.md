@@ -41,3 +41,7 @@ You can find the exhaustive list [here](https://automationhacks.io/talks/)
 - [LinkedIn](https://www.linkedin.com/in/automationhacks/)
 - [Stack overflow](https://stackoverflow.com/users/5336432/gaurav-singh)
 
+## Want to support me
+
+<a href="https://www.patreon.com/bePatron?u=47350284" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
