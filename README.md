@@ -11,7 +11,7 @@
 ## 🌱 I’m currently learning about ...
 
 - Developing API using Flask, connexion and SQLAlchemy
-- Distributed systems testing
+- Distributed systems testing and design
 - Exploratory testing techniques
 - Refactoring techniques
 
@@ -20,12 +20,14 @@
 - I also blog quite frequently about my journey and adventures as a tester, automation engineer, and programmer in general at [automationhacks.io](https://automationhacks.io/) and have spoken at conferences like AppiumConf, Automation Guild, Selenium Conf to share my knowledge, as well as learn from others
 
 
-## 👨🏻‍🏫 [Some course's that I've created ...](https://automationhacks.io/recognition-and-published-works/)
+## 👨🏻‍🏫 [Some course's that I've created ...](https://automationhacks.io/courses/)
 
-- Created course on [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/) for [Applitools Test automation university](https://testautomationu.applitools.com/) which is an public and open platform for people to learn about test automation.
-- (Upcoming) Working on a new course on **Building an API Test framework with Python** for TAU
+I've created 2 courses on [Test automation university](https://testautomationu.applitools.com/) which is an public and open platform for people to learn about test automation.
 
-## 🗣 [Some Talks that I've given so far ...](https://automationhacks.io/talks-and-conferences/)
+- [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/) that explains visual testing using applitools python sdk
+- [API Testing in Python](https://testautomationu.applitools.com/python-api-testing/) that takes you through how to build an API test automation framework in Python
+
+## 🗣 [Some Talks that I've given so far ...](https://automationhacks.io/talks/)
 
 - (2019) [How To Kill Test Flake In Appium by Gaurav Singh at AppiumConf 2019](https://www.youtube.com/watch?v=yv9P0CCY5e8)
 - (2020) [Contract Testing: Beyond Functional API Tests at Automation Guild 2020](https://guildconferences.com/conference/automation-guild-2020/)
