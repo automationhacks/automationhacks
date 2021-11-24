@@ -5,11 +5,12 @@
 - I have a strong passion for Test and Automation engineering and am a **polyglot programmer** who loves to code in **Kotlin, Python, and Java**
 - I like to build scalable test automation frameworks and utilities to solve testing and automation problems.
 - I believe in understanding and testing all the layers of the stack and have worked with Web, Mobile, and Backend systems throughout my career across different domains.  
-- Currently a **Engineering Manager SDET** at **Gojek Bengaluru**, one of the biggest providers of on-demand logistics, ride-hailing, food delivery, and payment service in Southeast Asia.
+- Currently a **Software Engineer** at **Meta, London**
 
 
 ## 🌱 I’m currently learning about ...
 
+- Native mobile test frameworks
 - Developing API using Flask, connexion and SQLAlchemy
 - Distributed systems testing and design
 - Exploratory testing techniques
