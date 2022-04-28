@@ -38,7 +38,7 @@ You can find the exhaustive list [here](https://automationhacks.io/talks/)
 
 ## 📫 How to reach me 
 
-- Email at gaurav.singh55@gmail.com
+- Email at automationhacks@gmail.com
 - [Blog](https://automationhacks.io/)
 - [Twitter](https://twitter.com/automationhacks)
 - [LinkedIn](https://www.linkedin.com/in/automationhacks/)
