@@ -5,15 +5,12 @@
 - I have a strong passion for Test and Automation engineering and am a **polyglot programmer** who loves to code in **Kotlin, Python, and Java**
 - I like to build scalable test automation frameworks and utilities to solve testing and automation problems.
 - I believe in understanding and testing all the layers of the stack and have worked with Web, Mobile, and Backend systems throughout my career across different domains.  
-- Currently a **Software Engineer** at **Meta, London**
 
 
 ## 🌱 I’m currently learning about ...
 
-- Native mobile test frameworks
+- Native mobile test frameworks (Espresso
 - Developing API using Flask, connexion and SQLAlchemy
-- Distributed systems testing and design
-- Exploratory testing techniques
 - Refactoring techniques
 
 ## 📝 [I write at ...](https://automationhacks.io/)
@@ -33,12 +30,12 @@ I've created 2 courses on [Test automation university](https://testautomationu.a
 - (2019) [How To Kill Test Flake In Appium by Gaurav Singh at AppiumConf 2019](https://www.youtube.com/watch?v=yv9P0CCY5e8)
 - (2020) [Contract Testing: Beyond Functional API Tests at Automation Guild 2020](https://guildconferences.com/conference/automation-guild-2020/)
 - (2020) [How to build an automation framework with selenium : patterns and practices](https://confengine.com/selenium-conf-2020/proposal/13303/how-to-build-an-automation-framework-with-selenium-patterns-and-practices)
+- (2021) [Hello Appium! Setting up your First Appium Tests efficiently](https://www.youtube.com/watch?v=907U1VP0RpA&list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903&index=12&t=277s)
 
 You can find the exhaustive list [here](https://automationhacks.io/talks/)
 
 ## 📫 How to reach me 
 
-- Email at automationhacks@gmail.com
 - [Blog](https://automationhacks.io/)
 - [Twitter](https://twitter.com/automationhacks)
 - [LinkedIn](https://www.linkedin.com/in/automationhacks/)
